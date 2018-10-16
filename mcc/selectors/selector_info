@@ -1,0 +1,8 @@
+
+ICSelector -----
+	produces gamma, electron singles and gePrompt, geBG coincidence histograms
+	"good detectors" or "partial" histograms refer to only accepting hits on the PACES detectors with good resolution
+		(namely, detectors 1,3,4).
+
+gamma_summing -----
+	produces histograms that are corrected for gamma summing effects

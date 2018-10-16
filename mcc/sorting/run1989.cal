@@ -1,0 +1,1820 @@
+
+DAL01XN00X	{
+Type:      TLaBr
+Name:      DAL01XN00X
+Number:    92
+Address:   0x00000a08
+Digitizer: GRF16
+EngCoeff:  -18.000000	1.445320	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL02XN00X	{
+Type:      TLaBr
+Name:      DAL02XN00X
+Number:    93
+Address:   0x00000a09
+Digitizer: GRF16
+EngCoeff:  -17.000000	0.999430	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL03XN00X	{
+Type:      TLaBr
+Name:      DAL03XN00X
+Number:    94
+Address:   0x00000a0a
+Digitizer: GRF16
+EngCoeff:  -19.000000	1.321260	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL04XN00X	{
+Type:      TLaBr
+Name:      DAL04XN00X
+Number:    95
+Address:   0x00000a0b
+Digitizer: GRF16
+EngCoeff:  -21.000000	0.947730	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL05XN00X	{
+Type:      TLaBr
+Name:      DAL05XN00X
+Number:    96
+Address:   0x00000a0c
+Digitizer: GRF16
+EngCoeff:  -14.000000	1.064610	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL06XN00X	{
+Type:      TLaBr
+Name:      DAL06XN00X
+Number:    97
+Address:   0x00000a0d
+Digitizer: GRF16
+EngCoeff:  -25.000000	1.395470	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL07XN00X	{
+Type:      TLaBr
+Name:      DAL07XN00X
+Number:    98
+Address:   0x00000a0e
+Digitizer: GRF16
+EngCoeff:  -10.300000	1.331660	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAL08XN00X	{
+Type:      TLaBr
+Name:      DAL08XN00X
+Number:    99
+Address:   0x00000a0f
+Digitizer: GRF16
+EngCoeff:  -24.400000	0.203000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT01XT00X	{
+Type:      TTAC
+Name:      DAT01XT00X
+Number:    84
+Address:   0x00000a00
+Digitizer: GRF16
+EngCoeff:  0.000000	3.554920	
+Integration: 0
+TimeOffset: 51.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT02XT00X	{
+Type:      TTAC
+Name:      DAT02XT00X
+Number:    85
+Address:   0x00000a01
+Digitizer: GRF16
+EngCoeff:  0.000000	3.657910	
+Integration: 0
+TimeOffset: 62.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT03XT00X	{
+Type:      TTAC
+Name:      DAT03XT00X
+Number:    86
+Address:   0x00000a02
+Digitizer: GRF16
+EngCoeff:  0.000000	3.521000	
+Integration: 0
+TimeOffset: 101.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT04XT00X	{
+Type:      TTAC
+Name:      DAT04XT00X
+Number:    87
+Address:   0x00000a03
+Digitizer: GRF16
+EngCoeff:  0.000000	3.844230	
+Integration: 0
+TimeOffset: 52.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT05XT00X	{
+Type:      TTAC
+Name:      DAT05XT00X
+Number:    88
+Address:   0x00000a04
+Digitizer: GRF16
+EngCoeff:  0.000000	3.562650	
+Integration: 0
+TimeOffset: 121.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT06XT00X	{
+Type:      TTAC
+Name:      DAT06XT00X
+Number:    89
+Address:   0x00000a05
+Digitizer: GRF16
+EngCoeff:  0.000000	3.645380	
+Integration: 0
+TimeOffset: 63.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT07XT00X	{
+Type:      TTAC
+Name:      DAT07XT00X
+Number:    90
+Address:   0x00000a06
+Digitizer: GRF16
+EngCoeff:  0.000000	3.486260	
+Integration: 0
+TimeOffset: 50.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+DAT08XT00X	{
+Type:      TTAC
+Name:      DAT08XT00X
+Number:    91
+Address:   0x00000a07
+Digitizer: GRF16
+EngCoeff:  0.000000	0.000000	
+Integration: 0
+TimeOffset: 250.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG01BN00A	{
+Type:      TGriffin
+Name:      GRG01BN00A
+Number:    0
+Address:   0x00000000
+Digitizer: GRF16
+EngCoeff:  0.596452	1.427948	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG01GN00A	{
+Type:      TGriffin
+Name:      GRG01GN00A
+Number:    1
+Address:   0x00000001
+Digitizer: GRF16
+EngCoeff:  -0.054267	1.360917	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG01RN00A	{
+Type:      TGriffin
+Name:      GRG01RN00A
+Number:    2
+Address:   0x00000002
+Digitizer: GRF16
+EngCoeff:  0.035891	1.409582	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG01WN00A	{
+Type:      TGriffin
+Name:      GRG01WN00A
+Number:    3
+Address:   0x00000003
+Digitizer: GRF16
+EngCoeff:  2.528102	1.291026	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG02BN00A	{
+Type:      TGriffin
+Name:      GRG02BN00A
+Number:    4
+Address:   0x00000004
+Digitizer: GRF16
+EngCoeff:  0.817906	1.320025	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG02GN00A	{
+Type:      TGriffin
+Name:      GRG02GN00A
+Number:    5
+Address:   0x00000005
+Digitizer: GRF16
+EngCoeff:  0.848654	1.276635	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG02RN00A	{
+Type:      TGriffin
+Name:      GRG02RN00A
+Number:    6
+Address:   0x00000006
+Digitizer: GRF16
+EngCoeff:  0.307346	1.387557	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG02WN00A	{
+Type:      TGriffin
+Name:      GRG02WN00A
+Number:    7
+Address:   0x00000007
+Digitizer: GRF16
+EngCoeff:  -1.522029	1.274588	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG03BN00A	{
+Type:      TGriffin
+Name:      GRG03BN00A
+Number:    8
+Address:   0x00000008
+Digitizer: GRF16
+EngCoeff:  0.488059	1.271697	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG03GN00A	{
+Type:      TGriffin
+Name:      GRG03GN00A
+Number:    9
+Address:   0x00000009
+Digitizer: GRF16
+EngCoeff:  -0.240339	1.153656	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG03RN00A	{
+Type:      TGriffin
+Name:      GRG03RN00A
+Number:    10
+Address:   0x0000000a
+Digitizer: GRF16
+EngCoeff:  0.334979	1.336964	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG03WN00A	{
+Type:      TGriffin
+Name:      GRG03WN00A
+Number:    11
+Address:   0x0000000b
+Digitizer: GRF16
+EngCoeff:  -0.042916	1.209117	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG04BN00A	{
+Type:      TGriffin
+Name:      GRG04BN00A
+Number:    12
+Address:   0x0000000c
+Digitizer: GRF16
+EngCoeff:  0.568482	1.398215	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG04GN00A	{
+Type:      TGriffin
+Name:      GRG04GN00A
+Number:    13
+Address:   0x0000000d
+Digitizer: GRF16
+EngCoeff:  1.890626	1.319278	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG04RN00A	{
+Type:      TGriffin
+Name:      GRG04RN00A
+Number:    14
+Address:   0x0000000e
+Digitizer: GRF16
+EngCoeff:  0.105690	1.401560	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG04WN00A	{
+Type:      TGriffin
+Name:      GRG04WN00A
+Number:    15
+Address:   0x0000000f
+Digitizer: GRF16
+EngCoeff:  1.830189	1.301200	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG05BN00A	{
+Type:      TGriffin
+Name:      GRG05BN00A
+Number:    16
+Address:   0x00000100
+Digitizer: GRF16
+EngCoeff:  0.267121	1.273881	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG05GN00A	{
+Type:      TGriffin
+Name:      GRG05GN00A
+Number:    17
+Address:   0x00000101
+Digitizer: GRF16
+EngCoeff:  1.803077	1.196179	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG05RN00A	{
+Type:      TGriffin
+Name:      GRG05RN00A
+Number:    18
+Address:   0x00000102
+Digitizer: GRF16
+EngCoeff:  -0.100837	1.295827	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG05WN00A	{
+Type:      TGriffin
+Name:      GRG05WN00A
+Number:    19
+Address:   0x00000103
+Digitizer: GRF16
+EngCoeff:  1.981225	1.175629	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG06BN00A	{
+Type:      TGriffin
+Name:      GRG06BN00A
+Number:    20
+Address:   0x00000104
+Digitizer: GRF16
+EngCoeff:  -0.046787	1.380259	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG06GN00A	{
+Type:      TGriffin
+Name:      GRG06GN00A
+Number:    21
+Address:   0x00000105
+Digitizer: GRF16
+EngCoeff:  1.498647	1.325448	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG06RN00A	{
+Type:      TGriffin
+Name:      GRG06RN00A
+Number:    22
+Address:   0x00000106
+Digitizer: GRF16
+EngCoeff:  -0.123493	1.425192	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG06WN00A	{
+Type:      TGriffin
+Name:      GRG06WN00A
+Number:    23
+Address:   0x00000107
+Digitizer: GRF16
+EngCoeff:  2.173960	1.250919	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG07BN00A	{
+Type:      TGriffin
+Name:      GRG07BN00A
+Number:    24
+Address:   0x00000108
+Digitizer: GRF16
+EngCoeff:  0.009174	1.253865	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG07GN00A	{
+Type:      TGriffin
+Name:      GRG07GN00A
+Number:    25
+Address:   0x00000109
+Digitizer: GRF16
+EngCoeff:  1.774240	1.109953	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG07RN00A	{
+Type:      TGriffin
+Name:      GRG07RN00A
+Number:    26
+Address:   0x0000010a
+Digitizer: GRF16
+EngCoeff:  -0.207512	1.248616	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG07WN00A	{
+Type:      TGriffin
+Name:      GRG07WN00A
+Number:    27
+Address:   0x0000010b
+Digitizer: GRF16
+EngCoeff:  -0.313705	1.118290	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG08BN00A	{
+Type:      TGriffin
+Name:      GRG08BN00A
+Number:    28
+Address:   0x0000010c
+Digitizer: GRF16
+EngCoeff:  0.527277	1.424220	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG08GN00A	{
+Type:      TGriffin
+Name:      GRG08GN00A
+Number:    29
+Address:   0x0000010d
+Digitizer: GRF16
+EngCoeff:  2.135081	1.308541	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG08RN00A	{
+Type:      TGriffin
+Name:      GRG08RN00A
+Number:    30
+Address:   0x0000010e
+Digitizer: GRF16
+EngCoeff:  0.390967	1.418493	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG08WN00A	{
+Type:      TGriffin
+Name:      GRG08WN00A
+Number:    31
+Address:   0x0000010f
+Digitizer: GRF16
+EngCoeff:  -1.492361	1.303638	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG09BN00A	{
+Type:      TGriffin
+Name:      GRG09BN00A
+Number:    32
+Address:   0x00000200
+Digitizer: GRF16
+EngCoeff:  0.783472	1.265200	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG09GN00A	{
+Type:      TGriffin
+Name:      GRG09GN00A
+Number:    33
+Address:   0x00000201
+Digitizer: GRF16
+EngCoeff:  0.377666	1.229396	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG09RN00A	{
+Type:      TGriffin
+Name:      GRG09RN00A
+Number:    34
+Address:   0x00000202
+Digitizer: GRF16
+EngCoeff:  0.272063	1.270600	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG09WN00A	{
+Type:      TGriffin
+Name:      GRG09WN00A
+Number:    35
+Address:   0x00000203
+Digitizer: GRF16
+EngCoeff:  1.991202	1.110384	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG10BN00A	{
+Type:      TGriffin
+Name:      GRG10BN00A
+Number:    36
+Address:   0x00000204
+Digitizer: GRF16
+EngCoeff:  0.491103	1.284634	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG10GN00A	{
+Type:      TGriffin
+Name:      GRG10GN00A
+Number:    37
+Address:   0x0000030d
+Digitizer: GRF16
+EngCoeff:  2.345463	1.181616
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG10RN00A	{
+Type:      TGriffin
+Name:      GRG10RN00A
+Number:    38
+Address:   0x00000206
+Digitizer: GRF16
+EngCoeff:  0.851617	1.321019	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG10WN00A	{
+Type:      TGriffin
+Name:      GRG10WN00A
+Number:    39
+Address:   0x00000207
+Digitizer: GRF16
+EngCoeff:  -1.370585	1.174094	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG11BN00A	{
+Type:      TGriffin
+Name:      GRG11BN00A
+Number:    40
+Address:   0x00000208
+Digitizer: GRF16
+EngCoeff:  -0.130863	1.356077	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG11GN00A	{
+Type:      TGriffin
+Name:      GRG11GN00A
+Number:    41
+Address:   0x00000209
+Digitizer: GRF16
+EngCoeff:  1.761302	1.243109	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG11RN00A	{
+Type:      TGriffin
+Name:      GRG11RN00A
+Number:    42
+Address:   0x0000020a
+Digitizer: GRF16
+EngCoeff:  0.613201	1.378389	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG11WN00A	{
+Type:      TGriffin
+Name:      GRG11WN00A
+Number:    43
+Address:   0x0000020b
+Digitizer: GRF16
+EngCoeff:  -1.905378	1.249144	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG12BN00A	{
+Type:      TGriffin
+Name:      GRG12BN00A
+Number:    44
+Address:   0x0000020c
+Digitizer: GRF16
+EngCoeff:  -0.047376	1.306542	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG12GN00A	{
+Type:      TGriffin
+Name:      GRG12GN00A
+Number:    45
+Address:   0x0000020d
+Digitizer: GRF16
+EngCoeff:  -0.355912	1.242360	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG12RN00A	{
+Type:      TGriffin
+Name:      GRG12RN00A
+Number:    46
+Address:   0x0000020e
+Digitizer: GRF16
+EngCoeff:  0.608605	1.231992	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG12WN00A	{
+Type:      TGriffin
+Name:      GRG12WN00A
+Number:    47
+Address:   0x0000020f
+Digitizer: GRF16
+EngCoeff:  1.921224	1.171576	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG13BN00A	{
+Type:      TGriffin
+Name:      GRG13BN00A
+Number:    48
+Address:   0x00000300
+Digitizer: GRF16
+EngCoeff:  
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG13GN00A	{
+Type:      TGriffin
+Name:      GRG13GN00A
+Number:    49
+Address:   0x00000301
+Digitizer: GRF16
+EngCoeff:  
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG13RN00A	{
+Type:      TGriffin
+Name:      GRG13RN00A
+Number:    50
+Address:   0x00000302
+Digitizer: GRF16
+EngCoeff:  
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG13WN00A	{
+Type:      TGriffin
+Name:      GRG13WN00A
+Number:    51
+Address:   0x00000303
+Digitizer: GRF16
+EngCoeff:  
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG14BN00A	{
+Type:      TGriffin
+Name:      GRG14BN00A
+Number:    52
+Address:   0x00000304
+Digitizer: GRF16
+EngCoeff:  0.309171	1.389236	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG14GN00A	{
+Type:      TGriffin
+Name:      GRG14GN00A
+Number:    53
+Address:   0x00000305
+Digitizer: GRF16
+EngCoeff:  2.564350	1.278332	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG14RN00A	{
+Type:      TGriffin
+Name:      GRG14RN00A
+Number:    54
+Address:   0x00000306
+Digitizer: GRF16
+EngCoeff:  0.462070	1.388615	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG14WN00A	{
+Type:      TGriffin
+Name:      GRG14WN00A
+Number:    55
+Address:   0x00000307
+Digitizer: GRF16
+EngCoeff:  2.720270	1.279642	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG15BN00A	{
+Type:      TGriffin
+Name:      GRG15BN00A
+Number:    56
+Address:   0x00000308
+Digitizer: GRF16
+EngCoeff:  0.440205	1.337919	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG15GN00A	{
+Type:      TGriffin
+Name:      GRG15GN00A
+Number:    57
+Address:   0x00000309
+Digitizer: GRF16
+EngCoeff:  1.923104	1.330353	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG15RN00A	{
+Type:      TGriffin
+Name:      GRG15RN00A
+Number:    58
+Address:   0x0000030a
+Digitizer: GRF16
+EngCoeff:  -0.170906	1.385417	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG15WN00A	{
+Type:      TGriffin
+Name:      GRG15WN00A
+Number:    59
+Address:   0x0000030b
+Digitizer: GRF16
+EngCoeff:  2.024288	1.285109	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG16BN00A	{
+Type:      TGriffin
+Name:      GRG16BN00A
+Number:    60
+Address:   0x0000030c
+Digitizer: GRF16
+EngCoeff:  0.440203	1.335431	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG16GN00A	{
+Type:      TGriffin
+Name:      GRG16GN00A
+Number:    61
+Address:   0x00000205
+Digitizer: GRF16
+EngCoeff:  2.374954	1.219935		
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG16RN00A	{
+Type:      TGriffin
+Name:      GRG16RN00A
+Number:    62
+Address:   0x0000030e
+Digitizer: GRF16
+EngCoeff:  -0.170168	1.266802	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+GRG16WN00A	{
+Type:      TGriffin
+Name:      GRG16WN00A
+Number:    63
+Address:   0x0000030f
+Digitizer: GRF16
+EngCoeff:  0.909726	1.206117	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+PAC00XN00X	{
+Type:      TPaces
+Name:      PAC00XN00X
+Number:    100
+Address:   0x00000b00
+Digitizer: GRF16
+EngCoeff:  1.944450	0.317708	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+PAC01XN00X	{
+Type:      TPaces
+Name:      PAC01XN00X
+Number:    101
+Address:   0x00000b01
+Digitizer: GRF16
+EngCoeff:  0.078554	0.280045	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+PAC02XN00X	{
+Type:      TPaces
+Name:      PAC02XN00X
+Number:    102
+Address:   0x00000b02
+Digitizer: GRF16
+EngCoeff:  2.059240	0.312209	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+PAC03XN00X	{
+Type:      TPaces
+Name:      PAC03XN00X
+Number:    103
+Address:   0x00000b03
+Digitizer: GRF16
+EngCoeff:  -2.417450	0.311185	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+PAC04XN00X	{
+Type:      TPaces
+Name:      PAC04XN00X
+Number:    104
+Address:   0x00000b04
+Digitizer: GRF16
+EngCoeff:  -0.703812	0.328347	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP00XN00X	{
+Type:      TSceptar
+Name:      SEP00XN00X
+Number:    64
+Address:   0x00000800
+Digitizer: GRF16
+EngCoeff:  0.000000	1.197650	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP01XN00X	{
+Type:      TSceptar
+Name:      SEP01XN00X
+Number:    65
+Address:   0x00000801
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP02XN00X	{
+Type:      TSceptar
+Name:      SEP02XN00X
+Number:    66
+Address:   0x00000802
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP03XN00X	{
+Type:      TSceptar
+Name:      SEP03XN00X
+Number:    67
+Address:   0x00000803
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP04XN00X	{
+Type:      TSceptar
+Name:      SEP04XN00X
+Number:    68
+Address:   0x00000804
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP05XN00X	{
+Type:      TSceptar
+Name:      SEP05XN00X
+Number:    69
+Address:   0x00000805
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP06XN00X	{
+Type:      TSceptar
+Name:      SEP06XN00X
+Number:    70
+Address:   0x00000806
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP07XN00X	{
+Type:      TSceptar
+Name:      SEP07XN00X
+Number:    71
+Address:   0x00000807
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP08XN00X	{
+Type:      TSceptar
+Name:      SEP08XN00X
+Number:    72
+Address:   0x00000808
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP09XN00X	{
+Type:      TSceptar
+Name:      SEP09XN00X
+Number:    73
+Address:   0x00000809
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP10XN00X	{
+Type:      TSceptar
+Name:      SEP10XN00X
+Number:    74
+Address:   0x00000900
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP11XN00X	{
+Type:      TSceptar
+Name:      SEP11XN00X
+Number:    75
+Address:   0x00000901
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP12XN00X	{
+Type:      TSceptar
+Name:      SEP12XN00X
+Number:    76
+Address:   0x00000902
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP13XN00X	{
+Type:      TSceptar
+Name:      SEP13XN00X
+Number:    77
+Address:   0x00000903
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP14XN00X	{
+Type:      TSceptar
+Name:      SEP14XN00X
+Number:    78
+Address:   0x00000904
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP15XN00X	{
+Type:      TSceptar
+Name:      SEP15XN00X
+Number:    79
+Address:   0x00000905
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP16XN00X	{
+Type:      TSceptar
+Name:      SEP16XN00X
+Number:    80
+Address:   0x00000906
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP17XN00X	{
+Type:      TSceptar
+Name:      SEP17XN00X
+Number:    81
+Address:   0x00000909
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP18XN00X	{
+Type:      TSceptar
+Name:      SEP18XN00X
+Number:    82
+Address:   0x0000090a
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+SEP19XN00X	{
+Type:      TSceptar
+Name:      SEP19XN00X
+Number:    83
+Address:   0x0000090b
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+ZDS00XN00X	{
+Type:      TZeroDegree
+Name:      ZDS00XN00X
+Number:    105
+Address:   0x00000b05
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+
+ZDS00XN00X	{
+Type:      TZeroDegree
+Name:      ZDS00XN00X
+Number:    105
+Address:   0x00000b06
+Digitizer: GRF16
+EngCoeff:  0.000000	1.000000	
+Integration: 0
+TimeOffset: 0.000000
+ENGChi2:     0.000000
+EffCoeff:  
+EFFChi2:   0.000000
+FileInt: 0
+}
+//====================================//
+
+

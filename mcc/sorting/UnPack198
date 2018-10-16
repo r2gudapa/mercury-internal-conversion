@@ -1,0 +1,54 @@
+#!/bin/bash
+
+# run 9189 (50 subruns)
+for i in 0 1 2 3 4
+do
+	for j in 0 1 2 3 4 5 6 7 8 9
+	do
+		grsisort -laq /tig/grifstore0/griffin/S1607/run09189_0${i}${j}.mid --suppress_error --word-count-offset=0 --status-width=120	
+	done
+done
+
+# run 9190 (44 subruns)
+for i in 0 1 2 3 
+do
+	for j in 0 1 2 3 4 5 6 7 8 9
+	do
+		grsisort -laq /tig/grifstore0/griffin/S1607/run09190_0${i}${j}.mid --suppress_error --word-count-offset=0 --status-width=120	
+	done
+done
+
+for k in 0 1 2 3
+do
+	grsisort -laq /tig/grifstore0/griffin/S1607/run09190_04${k}.mid --suppress_error --word-count-offset=0 --status-width=120	
+done
+
+# run 9191 (29 subruns)
+for i in 0 1  
+do
+	for j in 0 1 2 3 4 5 6 7 8 9
+	do
+		grsisort -laq /tig/grifstore0/griffin/S1607/run09191_0${i}${j}.mid --suppress_error --word-count-offset=0 --status-width=120	
+	done
+done
+
+for k in 0 1 2 3 4 5 6 7 8
+do
+	grsisort -laq /tig/grifstore0/griffin/S1607/run09191_02${k}.mid --suppress_error --word-count-offset=0 --status-width=120	
+done
+
+# run 9192 (44 subruns)
+for i in 0 1 2 3 
+do
+	for j in 0 1 2 3 4 5 6 7 8 9
+	do
+		grsisort -laq /tig/grifstore0/griffin/S1607/run09192_0${i}${j}.mid --suppress_error --word-count-offset=0 --status-width=120	
+	done
+done
+
+for k in 0 1 2 3
+do
+	grsisort -laq /tig/grifstore0/griffin/S1607/run09192_04${k}.mid --suppress_error --word-count-offset=0 --status-width=120	
+done
+
+

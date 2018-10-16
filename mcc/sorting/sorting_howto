@@ -1,0 +1,11 @@
+The example files provided are used for unpacking and calibrating Hg-198 data from grifstore0
+Data was previously calibrated using run1989.cal for ALL masses
+
+- edit UnPackxxx to point to the data/runs in grifstore0 you are interested in (see RunSummary.xlsx)
+- edit calibrate.C to point to the runxxxx.cal file
+- make sure the number of runs and subruns matches UnPackxxx
+- ensure the Digitizer is set to GRIF16 throughout the .cal file (see run1989.cal as an example)
+- run UnPackxxx 
+- run grsisort -l calibrate.C
+
+- now, any sorting that is done on the unpacked files will be properly calibrated (ie. running a selector on the unpacked data)
